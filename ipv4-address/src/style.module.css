@@ -1,0 +1,22 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: max-content;
+    height: 100vh;
+}
+
+.wrapper h1 {
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: 600;
+    color: #ffff;
+}
+
+.wrapper p {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffff;
+}
